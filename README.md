@@ -1,2 +1,3 @@
 # my_start_up_project
-git_hub_seminar
+나의 첫번째 실습
+
